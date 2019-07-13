@@ -1,0 +1,52 @@
+<html>
+<head>
+	<title>Insert Siswa</title>
+	<link rel= "stylesheet" href="insertSiswa.css"/>
+	<script src="jquery-3.3.1.min.js"></script>
+	<script src="insertSiswaHtml.js"></script>
+</head>
+
+<body>
+	<div id="container">
+		<h2>Insert Nilai Siswa</h2>
+		
+		<form action="insertSiswa.php" method="post">
+			<span>Nis:</span>
+			<input type="text" name="nis" class="txtInput" placeholder="Input Nis"/></br>
+			</br><span>Nama:</span>
+			<input type="text" name="nama" class="txtInput" placeholder="Input Nama"/></br>
+			</br><span>Kelas:</span></br>
+				<select id="kelas" name="kelas">
+				  <option value="RPL X-A">RPL X-A</option>
+				  <option value="RPL X-B">RPL X-B</option>
+				  <option value="RPL X-C">RPL X-C</option>
+				  <option value="RPL XI-A">RPL XI-A</option>
+				  <option value="RPL XI-B">RPL XI-B</option>
+				  <option value="RPL XI-C">RPL XI-C</option>
+				  <option value="RPL XII-A">RPL XII-A</option>
+				  <option value="RPL XII-B">RPL XII-B</option>
+				  <option value="RPL XII-C">RPL XII-C</option>
+				</select></br>
+			</br><span>Mapel:</span></br>
+			<select id="mapel" name="mapel">
+				<option value="DB">Database</option>
+				<option value="PHP">PHP</option>
+				<option value="Graphic">Graphic</option>
+				<option value="Java D">Java D</option>
+				<option value="Android">Android</option>
+				<option value="B.Inggris">B.Inggris</option>
+			</select></br>
+			</br><span>Nilai Pengetahuan:</span>
+			<input type="text" name="nilai_p" class="txtInput" placeholder="Input Nilai Pengetahuan"/></br>
+			</br><span>Nilai Keterampilan:</span>
+			<input type="text" name="nilai_k" class="txtInput" placeholder="Input Nilai Keterampilan"/></br>
+			</br><span>Nilai UTS:</span>
+			<input type="text" name="nilai_uts" class="txtInput" placeholder="Nilai UTS"/></br>
+			</br><span>Nilai UAS:</span>
+			<input type="text" name="nilai_uas" class="txtInput" placeholder="Nilai UAS"/></br>
+			</br><input type="submit" name="submit" id="submit" value="Submit"/>
+			
+		</form>
+	</div>
+</body>
+</html>

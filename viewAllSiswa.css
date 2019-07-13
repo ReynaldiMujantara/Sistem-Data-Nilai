@@ -1,0 +1,30 @@
+th,td{
+	padding-left:10px;
+	padding-right: 10px;
+	
+}
+th{
+	border:solid;
+	color:white;
+}
+table{
+	border:solid;
+	color:White;
+}
+body{
+	background-color:black;
+}
+table{
+	background-color:black;
+}
+a{
+	color:white;
+}
+
+input[type="button"]{
+	color: rgba(255,255,255,0.9);
+    background-color: black;
+    border-color: #005999;
+    box-shadow: inset 0 1px 0 #3af;
+	
+}

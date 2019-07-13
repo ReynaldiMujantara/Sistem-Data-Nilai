@@ -1,0 +1,20 @@
+cara ngedit langsung :
+
+1. link untuk editing dan saving
+aksinya disimpan di javascript(jqeury)
+
+langkah 1:
+1.  menggunakan onClick pada element link
+2. menuliskan nama function pada onclick tersebut.
+3. menyertakan code javascript function
+
+langkah 2:
+1. menggunakan perubahan readonly menjadi false pada code javascript.
+2.menyertakan input='text' readonly element pada html.
+
+langkah 3:
+1. memberikan perubahan text anchor dari 'edit' menjadi 'update' pada code javascript
+2. menyertakan id='tombol_edit' pada element anchor html.
+
+a) pemanggilan perubahan status
+b)pemanggilan file php (save/update)

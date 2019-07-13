@@ -1,0 +1,31 @@
+body{
+	background-image:linear-gradient(to left, #42f4f4,#41f4be, #41f47f);
+}
+#container{
+	width: 200px;
+    margin-left: 590px;
+
+}
+.txtInput{
+	border-radius: 25px;
+    padding: 5px;
+}
+span{
+	color: white;
+    font-size: 20px;
+}
+h2{
+	color:white;
+}
+#submit{
+	width: 180px;
+    border-radius: 30px;
+    height: 30px;
+    color: blue;
+	cursor:pointer;
+}
+#kelas, #mapel{
+	width: 175px;
+    border-radius: 25px;
+    height: 25px;
+}

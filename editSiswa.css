@@ -1,0 +1,13 @@
+body{
+	background-image:linear-gradient(#5c7893,#ea9c1b);
+}
+.textField{
+	border-radius:25px;
+}
+#formulir{
+	border:solid;
+	background-color:eaec96;
+	width: 224px;
+    height: 355px;
+	border-radius: 25px;
+}

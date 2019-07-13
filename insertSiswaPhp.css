@@ -1,0 +1,11 @@
+body{
+	background-color:#298f9b;
+}
+#content{
+	color:white;
+	margin-top:200px;
+	border: solid;
+    width: 275px;
+    border-radius: 25px;
+	background-color:rgb(66, 244, 235, 0.5);
+}

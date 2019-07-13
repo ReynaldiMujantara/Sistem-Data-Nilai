@@ -1,0 +1,9 @@
+body{
+	background-image: linear-gradient(to right, #a6cb12 , #207e82);
+}
+#content{
+	margin-top: 200px;
+    border: solid;
+	width: 250px;
+    border-radius: 25px;
+}
