@@ -5,7 +5,7 @@ bukalah file home.html lalu perhatikan <head> tag, di home.html tambahkan code b
 <link rel="shortcut icon" href="example.ico">
 ```
 -Fungsionalitas dari masing-masing sistem :
->-1.di home.html digunakan untuk memilih insert siswa atau melihat semua siswa
+>-1.di home.html digunakan untuk memilih insert siswa atau melihat semua siswa.
 >-2.insert.html untuk menginsert siswa.
 >-3.Viewallsiswa.php untuk melihat seluruh siswa yang sudah menginput
 
