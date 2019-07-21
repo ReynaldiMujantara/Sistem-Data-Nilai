@@ -9,7 +9,7 @@ bukalah file home.html lalu perhatikan <head> tag, di home.html tambahkan code b
 >2.insert.html untuk menginsert siswa.
 >3.Viewallsiswa.php untuk melihat seluruh siswa yang sudah menginput
 
-##Tutorials (non-developer)
+## Tutorials (non-developer)
 
 -Cara Pakai Sistem
 
