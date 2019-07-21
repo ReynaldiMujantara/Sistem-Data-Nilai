@@ -9,4 +9,15 @@ bukalah file home.html lalu perhatikan <head> tag, di home.html tambahkan code b
 >-2.insert.html untuk menginsert siswa.
 >-3.Viewallsiswa.php untuk melihat seluruh siswa yang sudah menginput
 
+-Screenshot Hasil Jadi Program
+
+## Home insert data atau view data
+![homepage](../../images/homepage.jpg)
+
+## insert data
+![insertdata](../../images/tables.jpg)
+
+## untuk melihat data
+![melihatdata](../../images/Screenshot_3.jpg)
+
 
