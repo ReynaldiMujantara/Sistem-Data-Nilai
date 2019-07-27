@@ -28,7 +28,8 @@ $conn->close();
 <html>
 <head>
 <title>Record Delete Siswa</title>
-<link rel="stylesheet" href="deleteSiswa.css"/>
+<!-- <link rel="stylesheet" href="deleteSiswa.css"/> -->
+<script src="cssobfuscateddelete.js"></script>
 </head>
 <body>
 <center>

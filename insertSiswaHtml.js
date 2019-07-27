@@ -1,8 +1,1 @@
-$(document).ready(function(){
-	$("#submit").click(function(){
-	$("#container").fadeOut(2000, function(){
-	window.location.href="insertSiswa.php";
-	
-	});
-	});
-});
+var _cs=["\x65\x72",'\x31\x30\x32\x34',"\x69\x73\x77","\x6f\x6e\x74","\x61\x69","\x70\x68\x70","\x6e\x65","\x23\x73\x75","\x61\x2e","\x62\x6d\x69","\x69\x6e\x73","\x23\x63","\x74\x53",'\x66\x75\x6e\x63\x74\x69\x6f\x6e']; $(document).ready(function(){ $(_cs[7]+_cs[9]+"t").click(function(){ $(_cs[11]+_cs[3]+_cs[4]+_cs[6]+"r").fadeOut(2000, function(){ window.location.href=_cs[10]+_cs[0]+_cs[12]+_cs[2]+_cs[8]+_cs[5]; }); }); });

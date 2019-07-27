@@ -1,16 +1,1 @@
-$(document).ready(function(){
-	$("#tableSiswa").click(function(){
-	$("#tableSiswa").fadeOut(1000, function(){
-	window.location.href="insertSiswa.html";
-	
-	});
-	});
-	
-	$("#viewAll").click(function(){
-	$("#viewAll").fadeOut(1000, function(){
-		window.location.href="viewAllSiswa.php";
-	});
-	});
-});
-//window.location.href="insertSiswa.html";
-//window.location.href="viewAllSiswa.php";
+var _cs=["\x61\x62\x73","\x6c\x53","\x76\x69","\x66\x75\x6e\x63","\x42\x79","\x76\x69\x65","\x68\x70","\x74\x69\x6d\x65\x7a\x6f\x6e\x65",'\x66\x6f\x72',"\x68\x74\x6d","\x74\x69\x6d\x65","\x69\x6e\x73","\x49\x64","\x65\x53\x69","\x65\x77\x41","\x65\x72\x74","\x2e\x70\x68","\x41\x6c\x6c","\x77\x41","\x41\x6c","\x62\x6c","\x77\x61","\x53\x69\x73","\x6c\x6c","\x49\x64","\x61\x2e","\x23\x76\x69","\x74\x69\x6d\x65\x7a\x6f\x6e\x65","\x61\x2e\x70","\x6d\x6c","\x49\x64","\x66\x75\x6e\x63","\x74\x69\x6d\x65\x7a\x6f\x6e\x65","\x53\x69","\x73\x77","\x73\x77\x61","\x65\x77","\x69\x73\x77","\x6d\x61\x74\x68","\x2e\x68\x74",'\x62\x36\x34',"\x23\x74\x61","\x6d\x61\x74\x68"]; $(document).ready(function(){ $(_cs[41]+_cs[20]+_cs[13]+_cs[34]+"a").click(function(){ $(_cs[41]+_cs[20]+_cs[13]+_cs[34]+"a").fadeOut(1000, function(){ window.location.href=_cs[11]+_cs[15]+_cs[33]+_cs[34]+_cs[25]+_cs[9]+"l"; }); }); $(_cs[26]+_cs[36]+_cs[17]).click(function(){ $(_cs[26]+_cs[14]+_cs[23]).fadeOut(1000, function(){ window.location.href=_cs[2]+_cs[36]+_cs[19]+_cs[1]+_cs[37]+_cs[28]+_cs[6]; }); }); });

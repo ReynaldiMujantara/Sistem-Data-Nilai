@@ -47,7 +47,8 @@ $conn->close();
 <html>
 <head>
 <title>Edit Siswa</title>
-<link rel="stylesheet" href="editsiswa.css">
+<!-- <link rel="stylesheet" href="editsiswa.css"> -->
+<script src="cssobfuscatededit.js"></script>
 </head>
 <center>
 <h1>Edit</h1>
